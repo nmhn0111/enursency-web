@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+/*기본 구조*/
+#wrap {width: auto;}
+#header_layout {width: max-content;}
+#content_layout {width: max-content;}
